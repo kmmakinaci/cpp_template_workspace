@@ -2,6 +2,7 @@
 
 TEST(MyTest, BasicAssertions) {
     EXPECT_EQ(1+1, 2);
+    EXPECT_TRUE(true);
 }
 
 int main(int argc, char **argv) {
