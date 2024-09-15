@@ -3,6 +3,7 @@
 ## Project Overview
 This project template uses CMake and Conan for package management and Google Test for unit testing.
 
+```bash
 my_cpp_project/
 ├── build/               # For out-of-source builds
 ├── include/
@@ -17,6 +18,7 @@ my_cpp_project/
 ├── conanfile.txt
 ├── CMakeLists.txt
 └── README.md
+```
 
 ## Build Instructions
 
