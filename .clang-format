@@ -1,0 +1,6 @@
+# Use this file to enforce style. You can switch between "Google" and "Linux".
+BasedOnStyle: Google
+IndentWidth: 2
+ColumnLimit: 80
+# To switch to Linux, replace "Google" with "Linux" in BasedOnStyle
+# BasedOnStyle: Linux

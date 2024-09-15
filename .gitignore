@@ -1,0 +1,14 @@
+# Ignore build artifacts
+/build/
+*.o
+*.exe
+*.out
+
+# Conan files
+conanbuildinfo.*
+.conan/
+
+# Ignore editor files
+.vscode/
+.idea/
+*.swp
