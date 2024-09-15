@@ -3,6 +3,7 @@
 ## Project Overview
 This project template uses CMake and Google Test for unit testing.
 
+```bash
 my_cpp_project/
 ├── build/               # For out-of-source builds
 ├── include/
@@ -16,6 +17,7 @@ my_cpp_project/
 ├── .pre-commit-config.yaml
 ├── CMakeLists.txt
 └── README.md
+```
 
 ## Build Instructions
 
